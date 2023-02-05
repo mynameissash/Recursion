@@ -1,0 +1,15 @@
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.csproj.AssemblyReference.cache
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.AssemblyInfoInputs.cache
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.AssemblyInfo.cs
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.csproj.CoreCompileInputs.cache
+E:\dev\.net\Recursion\Task 68\bin\Debug\net7.0\Task 68.exe
+E:\dev\.net\Recursion\Task 68\bin\Debug\net7.0\Task 68.deps.json
+E:\dev\.net\Recursion\Task 68\bin\Debug\net7.0\Task 68.runtimeconfig.json
+E:\dev\.net\Recursion\Task 68\bin\Debug\net7.0\Task 68.dll
+E:\dev\.net\Recursion\Task 68\bin\Debug\net7.0\Task 68.pdb
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.dll
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\refint\Task 68.dll
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.pdb
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\Task 68.genruntimeconfig.cache
+E:\dev\.net\Recursion\Task 68\obj\Debug\net7.0\ref\Task 68.dll
